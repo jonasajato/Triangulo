@@ -1,0 +1,1 @@
+# definir_tipo_triangulo
