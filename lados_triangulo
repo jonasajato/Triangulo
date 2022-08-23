@@ -1,6 +1,6 @@
 import java.util.Scanner;
-
-public class Exercicio_2 {
+\\O codigo visa imprimir o tipo de triangulo correspondente com base nas medidas inseridas pelo usuario
+public class Lados_Triangulo {
     public static void main(String[] args) {
         System.out.println("Insira abaixo os TRES LADOS de um triangulo. Ao final voce sabera se ele eh um " +
                 "triangulo Escaleno, Isosceles ou Equilatero!");
